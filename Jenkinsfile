@@ -1,5 +1,5 @@
 node{
    
-    echo "This is Jenkinsfile of MASTER Branch"
+    echo "This is Jenkinsfile of DEV Branch"
 
 }
